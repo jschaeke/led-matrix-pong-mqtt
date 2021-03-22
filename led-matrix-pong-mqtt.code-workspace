@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "led-matrix-pong-mqtt",
+			"path": "."
+		},
+		{
+			"name": "201216-205941-esp8266-nonos-sdk-blink",
+			"path": "../../Documents/PlatformIO/Projects/201216-205941-esp8266-nonos-sdk-blink"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"*.tcc": "cpp",
+			"string": "cpp",
+			"fstream": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp"
+		}
+	}
+}

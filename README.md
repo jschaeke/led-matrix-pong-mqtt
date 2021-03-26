@@ -15,6 +15,9 @@ Requirements:
   * 3 x 32*8 Neopixel matrix display
   * Platformio
 
+Still to be added later here:
+- A dump of NodeRed flow to communicate with the matrix via NodeRed UI
+- The configuration of Tasmota used in the button board.
 
 --------------
 Starts with a splash image:
